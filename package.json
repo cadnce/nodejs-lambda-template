@@ -1,0 +1,41 @@
+{
+  "name": "nodejs-lambda-template",
+  "version": "1.0.0",
+  "description": "Bare bones template for creating and deploying an alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt <cadnce>",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-install": "^0.6.0",
+    "gulp-zip": "^4.0.0",
+    "node-aws-lambda": "^0.1.8",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "aws-cli": "^0.0.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-install": "^0.6.0",
+    "gulp-zip": "^4.0.0",
+    "node-aws-lambda": "^0.1.8",
+    "run-sequence": "^1.2.2"
+  },
+  "keywords": [
+    "nodejs",
+    "lambda",
+    "aws"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadnce/nodejs-lambda-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cadnce/nodejs-lambda-template/issues"
+  },
+  "homepage": "https://github.com/cadnce/nodejs-lambda-template#readme"
+}
