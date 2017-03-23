@@ -17,6 +17,7 @@
     "run-sequence": "^1.2.2"
   },
   "dependencies": {
+    "aws-sdk": "^2.31.0",
     "aws-cli": "^0.0.1",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
