@@ -9,6 +9,7 @@
   "author": "Matt <cadnce>",
   "license": "ISC",
   "devDependencies": {
+    "aws-sdk": "^2.31.0",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-install": "^0.6.0",
@@ -17,14 +18,6 @@
     "run-sequence": "^1.2.2"
   },
   "dependencies": {
-    "aws-sdk": "^2.31.0",
-    "aws-cli": "^0.0.1",
-    "del": "^2.2.2",
-    "gulp": "^3.9.1",
-    "gulp-install": "^0.6.0",
-    "gulp-zip": "^4.0.0",
-    "node-aws-lambda": "^0.1.8",
-    "run-sequence": "^1.2.2"
   },
   "keywords": [
     "nodejs",
